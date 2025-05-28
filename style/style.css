@@ -143,3 +143,12 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.info {
+  text-align: center;
+  margin-top: 67px;
+}
+
+.info p {
+  font-size: 18px;
+}
